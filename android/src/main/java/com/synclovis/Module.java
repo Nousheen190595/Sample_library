@@ -20,7 +20,7 @@ public class Module extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
-    return "Sample-test";
+    return "SampleTest";
   }
 
   @Override
