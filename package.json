@@ -1,0 +1,27 @@
+{
+  "name": "react-native-android-sample-library",
+  "version": "0.0.1",
+  "author": "Nousheen",
+  "private": false,
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nousheen190595/Sample_library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nousheen190595/Sample_library.git/issues"
+  },
+  "homepage": "https://github.com/Nousheen190595/Sample_library",
+  "keywords": [
+    "react-native",
+    "android",
+    "library"
+  ],
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  }
+}
